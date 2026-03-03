@@ -9,7 +9,7 @@
     <persistence-unit name="JPA">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>br.com.albert.domain.Produto</class>
+        <class>br.com.albert.domain.Carro</class>
 
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
